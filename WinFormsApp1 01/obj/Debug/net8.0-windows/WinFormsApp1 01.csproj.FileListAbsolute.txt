@@ -1,0 +1,17 @@
+D:\repo\helloworld-oop-lab\WinFormsApp1 01\obj\Debug\net8.0-windows\WinFormsApp1_01.Form1.resources
+D:\repo\helloworld-oop-lab\WinFormsApp1 01\obj\Debug\net8.0-windows\WinFormsApp1 01.csproj.GenerateResource.cache
+D:\repo\helloworld-oop-lab\WinFormsApp1 01\obj\Debug\net8.0-windows\WinFormsApp1 01.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\helloworld-oop-lab\WinFormsApp1 01\obj\Debug\net8.0-windows\WinFormsApp1 01.AssemblyInfoInputs.cache
+D:\repo\helloworld-oop-lab\WinFormsApp1 01\obj\Debug\net8.0-windows\WinFormsApp1 01.AssemblyInfo.cs
+D:\repo\helloworld-oop-lab\WinFormsApp1 01\obj\Debug\net8.0-windows\WinFormsApp1 01.csproj.CoreCompileInputs.cache
+D:\repo\helloworld-oop-lab\WinFormsApp1 01\obj\Debug\net8.0-windows\WinFormsApp1 01.sourcelink.json
+D:\repo\helloworld-oop-lab\WinFormsApp1 01\bin\Debug\net8.0-windows\WinFormsApp1 01.exe
+D:\repo\helloworld-oop-lab\WinFormsApp1 01\bin\Debug\net8.0-windows\WinFormsApp1 01.deps.json
+D:\repo\helloworld-oop-lab\WinFormsApp1 01\bin\Debug\net8.0-windows\WinFormsApp1 01.runtimeconfig.json
+D:\repo\helloworld-oop-lab\WinFormsApp1 01\bin\Debug\net8.0-windows\WinFormsApp1 01.dll
+D:\repo\helloworld-oop-lab\WinFormsApp1 01\bin\Debug\net8.0-windows\WinFormsApp1 01.pdb
+D:\repo\helloworld-oop-lab\WinFormsApp1 01\obj\Debug\net8.0-windows\WinFormsApp1 01.dll
+D:\repo\helloworld-oop-lab\WinFormsApp1 01\obj\Debug\net8.0-windows\refint\WinFormsApp1 01.dll
+D:\repo\helloworld-oop-lab\WinFormsApp1 01\obj\Debug\net8.0-windows\WinFormsApp1 01.pdb
+D:\repo\helloworld-oop-lab\WinFormsApp1 01\obj\Debug\net8.0-windows\WinFormsApp1 01.genruntimeconfig.cache
+D:\repo\helloworld-oop-lab\WinFormsApp1 01\obj\Debug\net8.0-windows\ref\WinFormsApp1 01.dll
