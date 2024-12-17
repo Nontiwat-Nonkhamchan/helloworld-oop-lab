@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6AE0A30B-4D5E-4D1A-938E-0DA5BA8303F9}|WinFormsApp1 01.csproj|d:\\repo\\helloworld-oop-lab\\winformsapp1 01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6AE0A30B-4D5E-4D1A-938E-0DA5BA8303F9}|WinFormsApp1 01.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE0A30B-4D5E-4D1A-938E-0DA5BA8303F9}|WinFormsApp1 01.csproj|d:\\repo\\helloworld-oop-lab\\winformsapp1 01\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE0A30B-4D5E-4D1A-938E-0DA5BA8303F9}|WinFormsApp1 01.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\repo\\helloworld-oop-lab\\WinFormsApp1 01\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\repo\\helloworld-oop-lab\\WinFormsApp1 01\\Form1.Designer.cs*",
+              "RelativeToolTip": "Form1.Designer.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowG0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T05:02:24.633Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +46,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\repo\\helloworld-oop-lab\\WinFormsApp1 01\\Form1.cs*",
               "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwFUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T02:35:39.61Z",
               "EditorCaption": ""

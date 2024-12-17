@@ -65,7 +65,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(46, 97);
+            label3.Location = new Point(46, 102);
             label3.Name = "label3";
             label3.Size = new Size(39, 15);
             label3.TabIndex = 2;
@@ -98,7 +98,7 @@
             // 
             // result
             // 
-            result.Location = new Point(108, 93);
+            result.Location = new Point(108, 99);
             result.Name = "result";
             result.Size = new Size(100, 23);
             result.TabIndex = 6;
@@ -121,6 +121,7 @@
             button3.TabIndex = 8;
             button3.Text = "-";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click_1;
             // 
             // button4
             // 
@@ -134,12 +135,13 @@
             // 
             // button5
             // 
-            button5.Location = new Point(228, 93);
+            button5.Location = new Point(228, 99);
             button5.Name = "button5";
             button5.Size = new Size(75, 23);
             button5.TabIndex = 10;
             button5.Text = "Clear";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // Form1
             // 
