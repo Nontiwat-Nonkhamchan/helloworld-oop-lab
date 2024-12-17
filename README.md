@@ -13,16 +13,12 @@ Computer and Infomation Science, KKU
 ```
 private void button1_Click(object sender, EventArgs e)
 {
-    // ข้อความตัวอักษร
-    string inputNum1 = num1.Text;
-    string inputNum2 = num2.Text;
-    // convert string to number (integer)
-    int iNum1 = Int32.Parse(inputNum1);
-    int iNum2 = Int32.Parse(inputNum2);
-    // int ทำให้เราสามารถทำการ + - * / ได้
-    int iResult = iNum1 + iNum2;
-    // ที่ตัวแปรชื่อ result
-    // มีคุณสมบัติชื่อ Text
+    var inputNum1 = num1.Text;
+    var inputNum2 = num2.Text;
+
+    double iNum1 = Int32.Parse(inputNum1);
+    double iNum2 = Int32.Parse(inputNum2);
+    double iResult = iNum1 + iNum2;
     result.Text = iResult.ToString();
 }
 ```
@@ -63,16 +59,15 @@ result.Text = iResult.ToString();
 
 ## ปุ่มลบ
 ```
-private void button4_Click(object sender, EventArgs e)
+private void button3_Click_1(object sender, EventArgs e)
 {
-    string inputNum1 = num1.Text;
-    string inputNum2 = num2.Text;
+    var inputNum1 = num1.Text;
+    var inputNum2 = num2.Text;
 
-    int iNum1 = Int32.Parse(inputNum1);
-    int iNum2 = Int32.Parse(inputNum2);
-    int iReusult = iNum1 - iNum2;
-
-    result.Text = iReusult.ToString();
+    double iNum1 = Int32.Parse(inputNum1);
+    double iNum2 = Int32.Parse(inputNum2);
+    double iResult = iNum1 - iNum2;
+    result.Text = iResult.ToString();
 }
 ```
 
@@ -113,14 +108,14 @@ result.Text = iResult.ToString();
 ```
 private void button2_Click(object sender, EventArgs e)
 {
-    string inputNum1 = num1.Text;
-    string inputNum2 = num2.Text;
+    var inputNum1 = num1.Text;
+    var inputNum2 = num2.Text;
 
-    int iNum1 = Int32.Parse(inputNum1);
-    int iNum2 = Int32.Parse(inputNum2);
-    int iReusult = iNum1 *iNum2;
+    double iNum1 = Int32.Parse(inputNum1);
+    double iNum2 = Int32.Parse(inputNum2);
+    double iResult = iNum1 * iNum2;
+    result.Text = iResult.ToString();
 
-    result.Text = iReusult.ToString();
 }
 ```
 
@@ -160,16 +155,15 @@ result.Text = iResult.ToString();
 
 ## ปุ่มหาร
 ```
-private void button5_Click(object sender, EventArgs e)
+private void button4_Click(object sender, EventArgs e)
 {
-    string inputNum1 = num1.Text;
-    string inputNum2 = num2.Text;
+    var inputNum1 = num1.Text;
+    var inputNum2 = num2.Text;
 
-    int iNum1 = Int32.Parse(inputNum1);
-    int iNum2 = Int32.Parse(inputNum2);
-    int iReusult = iNum1 /iNum2;
-
-    result.Text = iReusult.ToString();
+    double iNum1 = Int32.Parse(inputNum1);
+    double iNum2 = Int32.Parse(inputNum2);
+    double iResult = iNum1 / iNum2;
+    result.Text = iResult.ToString();
 }
 ```
 
@@ -208,11 +202,11 @@ result.Text = iResult.ToString();
 ```
 ## ปุ่มลบข้อมูล
 ```
-private void button3_Click(object sender, EventArgs e)
+private void button5_Click(object sender, EventArgs e)
 {
-    num1.Text = "";
-    num2.Text = "";
-    result.Text = "";
+    num1.Clear();
+    num2.Clear();
+    result.Clear();
 }
 ```
 ### แสดงผล
