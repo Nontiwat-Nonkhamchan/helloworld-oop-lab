@@ -1,0 +1,16 @@
+C:\Users\NK 2314\Downloads\ShoppingCart-Function\bin\Debug\net8.0-windows\ShoppingCart.exe
+C:\Users\NK 2314\Downloads\ShoppingCart-Function\bin\Debug\net8.0-windows\ShoppingCart.deps.json
+C:\Users\NK 2314\Downloads\ShoppingCart-Function\bin\Debug\net8.0-windows\ShoppingCart.runtimeconfig.json
+C:\Users\NK 2314\Downloads\ShoppingCart-Function\bin\Debug\net8.0-windows\ShoppingCart.dll
+C:\Users\NK 2314\Downloads\ShoppingCart-Function\bin\Debug\net8.0-windows\ShoppingCart.pdb
+C:\Users\NK 2314\Downloads\ShoppingCart-Function\obj\Debug\net8.0-windows\ShoppingCart.Form1.resources
+C:\Users\NK 2314\Downloads\ShoppingCart-Function\obj\Debug\net8.0-windows\ShoppingCart.csproj.GenerateResource.cache
+C:\Users\NK 2314\Downloads\ShoppingCart-Function\obj\Debug\net8.0-windows\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NK 2314\Downloads\ShoppingCart-Function\obj\Debug\net8.0-windows\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\NK 2314\Downloads\ShoppingCart-Function\obj\Debug\net8.0-windows\ShoppingCart.AssemblyInfo.cs
+C:\Users\NK 2314\Downloads\ShoppingCart-Function\obj\Debug\net8.0-windows\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\NK 2314\Downloads\ShoppingCart-Function\obj\Debug\net8.0-windows\ShoppingCart.dll
+C:\Users\NK 2314\Downloads\ShoppingCart-Function\obj\Debug\net8.0-windows\refint\ShoppingCart.dll
+C:\Users\NK 2314\Downloads\ShoppingCart-Function\obj\Debug\net8.0-windows\ShoppingCart.pdb
+C:\Users\NK 2314\Downloads\ShoppingCart-Function\obj\Debug\net8.0-windows\ShoppingCart.genruntimeconfig.cache
+C:\Users\NK 2314\Downloads\ShoppingCart-Function\obj\Debug\net8.0-windows\ref\ShoppingCart.dll
