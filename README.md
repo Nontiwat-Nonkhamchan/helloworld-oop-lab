@@ -1,2 +1,2 @@
-# ShoppingCart
- this is lab 3rd, oop class
+# ShoppingCart with function
+Nontiwat Nonkhamchan 673450196-2
